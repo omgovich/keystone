@@ -1,5 +1,18 @@
 # @keystonejs/adapter-mongoose
 
+## 9.0.7
+
+### Patch Changes
+
+- [`7a1f8bbdc`](https://github.com/keystonejs/keystone/commit/7a1f8bbdcdf68c9579e17db77fa826e811abcab4) [#3645](https://github.com/keystonejs/keystone/pull/3645) Thanks [@timleslie](https://github.com/timleslie)! - Removed dependency on `@keystonejs/mongo-join-builder`, which is no longer maintained.
+
+* [`5c1e55721`](https://github.com/keystonejs/keystone/commit/5c1e5572134fa93c9aefbb537676e30cafd0e7d9) [#3651](https://github.com/keystonejs/keystone/pull/3651) Thanks [@renovate](https://github.com/apps/renovate)! - Updated dependency `mongodb` to `^3.6.2`.
+
+- [`7956d5da0`](https://github.com/keystonejs/keystone/commit/7956d5da00197dc11f5d54f7870b8fa72c05a3c0) [#3653](https://github.com/keystonejs/keystone/pull/3653) Thanks [@renovate](https://github.com/apps/renovate)! - Updated dependency `mongodb-memory-server-core` to `^6.7.5`.
+
+- Updated dependencies [[`7a1f8bbdc`](https://github.com/keystonejs/keystone/commit/7a1f8bbdcdf68c9579e17db77fa826e811abcab4)]:
+  - @keystonejs/keystone@15.0.1
+
 ## 9.0.6
 
 ### Patch Changes

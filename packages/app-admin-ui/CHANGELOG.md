@@ -1,5 +1,13 @@
 # @keystonejs/app-admin-ui
 
+## 7.3.6
+
+### Patch Changes
+
+- [`92b34a74e`](https://github.com/keystonejs/keystone/commit/92b34a74e699e3a101f53064e52932b7daeccbfc) [#3640](https://github.com/keystonejs/keystone/pull/3640) Thanks [@renovate](https://github.com/apps/renovate)! - Updated dependency `apollo-upload-client` to `^14.1.2`.
+
+* [`a14283b9c`](https://github.com/keystonejs/keystone/commit/a14283b9c9d80e8a38adede567695bf7e89cbcb9) [#3643](https://github.com/keystonejs/keystone/pull/3643) Thanks [@renovate](https://github.com/apps/renovate)! - Updated dependency `cross-fetch` to `^3.0.6`.
+
 ## 7.3.5
 
 ### Patch Changes

@@ -1,5 +1,17 @@
 # keystone_demo_blog
 
+## 6.2.5
+
+### Patch Changes
+
+- [`92b34a74e`](https://github.com/keystonejs/keystone/commit/92b34a74e699e3a101f53064e52932b7daeccbfc) [#3640](https://github.com/keystonejs/keystone/pull/3640) Thanks [@renovate](https://github.com/apps/renovate)! - Updated dependency `apollo-upload-client` to `^14.1.2`.
+
+- Updated dependencies [[`92b34a74e`](https://github.com/keystonejs/keystone/commit/92b34a74e699e3a101f53064e52932b7daeccbfc), [`7a1f8bbdc`](https://github.com/keystonejs/keystone/commit/7a1f8bbdcdf68c9579e17db77fa826e811abcab4), [`a14283b9c`](https://github.com/keystonejs/keystone/commit/a14283b9c9d80e8a38adede567695bf7e89cbcb9), [`5c1e55721`](https://github.com/keystonejs/keystone/commit/5c1e5572134fa93c9aefbb537676e30cafd0e7d9), [`7a1f8bbdc`](https://github.com/keystonejs/keystone/commit/7a1f8bbdcdf68c9579e17db77fa826e811abcab4), [`1c99f76d3`](https://github.com/keystonejs/keystone/commit/1c99f76d3c1dc02e08c3e39259c39cfd89d829a3), [`7956d5da0`](https://github.com/keystonejs/keystone/commit/7956d5da00197dc11f5d54f7870b8fa72c05a3c0)]:
+  - @keystonejs/app-admin-ui@7.3.6
+  - @keystonejs/adapter-mongoose@9.0.7
+  - @keystonejs/keystone@15.0.1
+  - @keystonejs/file-adapters@7.0.7
+
 ## 6.2.4
 
 ### Patch Changes

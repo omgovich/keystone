@@ -1,5 +1,11 @@
 # @keystonejs/keystone
 
+## 15.0.1
+
+### Patch Changes
+
+- [`7a1f8bbdc`](https://github.com/keystonejs/keystone/commit/7a1f8bbdcdf68c9579e17db77fa826e811abcab4) [#3645](https://github.com/keystonejs/keystone/pull/3645) Thanks [@timleslie](https://github.com/timleslie)! - Removed dependency on `@keystonejs/logger`, which is no longer maintained.
+
 ## 15.0.0
 
 ### Major Changes

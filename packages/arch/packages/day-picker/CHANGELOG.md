@@ -1,5 +1,11 @@
 # @arch-ui/day-picker
 
+## 1.0.5
+
+### Patch Changes
+
+- [`a79404183`](https://github.com/keystonejs/keystone/commit/a79404183c8080f5db5cc6591ab2fb4ff5398b5f) [#3650](https://github.com/keystonejs/keystone/pull/3650) Thanks [@renovate](https://github.com/apps/renovate)! - Updated dependency `moment` to `^2.28.0`.
+
 ## 1.0.4
 
 ### Patch Changes

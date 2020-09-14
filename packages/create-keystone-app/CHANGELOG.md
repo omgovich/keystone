@@ -1,5 +1,14 @@
 # create-keystone-app
 
+## 3.3.5
+
+### Patch Changes
+
+- [`504b9726f`](https://github.com/keystonejs/keystone/commit/504b9726f5997572e1471b10a629285828871960) [#3648](https://github.com/keystonejs/keystone/pull/3648) Thanks [@renovate](https://github.com/apps/renovate)! - Updated dependency `got` to `^11.6.2`.
+
+- Updated dependencies [[`7a1f8bbdc`](https://github.com/keystonejs/keystone/commit/7a1f8bbdcdf68c9579e17db77fa826e811abcab4), [`5c1e55721`](https://github.com/keystonejs/keystone/commit/5c1e5572134fa93c9aefbb537676e30cafd0e7d9), [`7956d5da0`](https://github.com/keystonejs/keystone/commit/7956d5da00197dc11f5d54f7870b8fa72c05a3c0)]:
+  - @keystonejs/adapter-mongoose@9.0.7
+
 ## 3.3.4
 
 ### Patch Changes
